@@ -14,7 +14,7 @@
 
 - **Age:** 14  
 - **Country:** Russia  
-- **Hobbies:** anime, chess, coding  
+- **Hobbies:** anime, coding  
 - **Interests:** obfuscation, reverse engineering  
 
 ---
