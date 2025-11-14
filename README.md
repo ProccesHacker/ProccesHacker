@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./header.png" width="100%" />
-</p>
-
 <div align="center">
   <img src="https://media.tenor.com/EcYHhn9yxLEAAAAi/nagumo-sakamoto-days.gif" width="350" />
 </div>
@@ -34,20 +30,6 @@
   - Visual Studio  
   - Visual Studio Code  
   - Reverse engineering / obfuscation stuff  
-
----
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ProcHacker&theme=default&show_icons=true&hide_border=false&count_private=true" 
-    alt="GitHub Stats" 
-  />
-  <br /><br />
-  <img 
-    src="https://streak-stats.demolab.com?user=ProcHacker&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-</div>
 
 ---
 
