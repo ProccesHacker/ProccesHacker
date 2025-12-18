@@ -10,16 +10,14 @@
 
 ---
 
-## About Me
 
 - **Age:** 14  
 - **Country:** Russia  
-- **Hobbies:** anime, coding  
+- **Hobbies:** coding  
 - **Interests:** obfuscation, reverse engineering  
 
 ---
 
-## Tech Stack
 
 - **Main languages**
   - C  
