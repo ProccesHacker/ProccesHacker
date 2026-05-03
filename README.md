@@ -1,28 +1,27 @@
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ProccesHacker&label=Profile%20views&color=000000&style=flat-square" />
 </p>
 
 ### Обо мне
-- Специализация: Reverse Engineering / Obfuscation.
+- Специализация: **Reverse Engineering / Obfuscation**.
 
 ---
 
 ### Технологии и инструменты
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python&theme=dark" />
-  </a>
-</p>
+| Направление | Стек |
+| :--- | :--- |
+| **Languages** | `C++`, `C`, `Python` |
+| **Tools** | `Visual Studio Code` |
 
 ---
 
-### Статистика
+### Статистика профиля
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProccesHacker&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProccesHacker&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Main_Languages-C++_/_C_/_Python-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Reverse_Engineering-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
 </p>
 
 ---
