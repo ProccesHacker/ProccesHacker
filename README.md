@@ -11,7 +11,7 @@
 ### Personal Information
 - **Age:** 14
 - **Location:** Russia
-- **Interests:** Obfuscation, Software Protection, Malware Analysis
+- **Interests:** Obfuscation
 
 ---
 
@@ -20,11 +20,8 @@
 **Programming Languages**
 - C / C++ (System Programming)
 - Python (Scripting & Automation)
-- Assembly (x86/x64)
 
 **Software & Tools**
-- Static Analysis: IDA Pro, Ghidra, PyCDC
-- Dynamic Analysis: x64dbg, Frida
 - IDE: Visual Studio, VS Code
 
 ---
