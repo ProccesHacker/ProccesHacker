@@ -1,3 +1,4 @@
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ProccesHacker&label=Profile%20views&color=000000&style=flat-square" />
 </p>
@@ -17,9 +18,11 @@
 
 ---
 
+### Статистика
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProccesHacker&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProccesHacker&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProccesHacker&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProccesHacker&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
