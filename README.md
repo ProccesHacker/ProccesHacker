@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/projects.svg" width="100%" alt="Projects"/>
+  <a href="https://github.com/ProccesHacker?tab=repositories"><img src="./assets/projects.svg" width="100%" alt="Projects — click to view all repositories"/></a>
 </p>
 
 <p align="center">
