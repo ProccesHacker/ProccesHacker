@@ -8,14 +8,17 @@
   <img src="./assets/stack.svg" width="49%" alt="Stack"/>
 </p>
 
+<br/>
+
 <p align="center">
-  <a href="https://github.com/ProccesHacker/Rendy-obfuscator-deobfuscator"><img src="./assets/btn_rendy.svg" height="80"/></a>
-  <a href="https://github.com/ProccesHacker/devmystical-obfuscator-deobfuscator"><img src="./assets/btn_devmystical.svg" height="80"/></a>
-  <a href="https://github.com/ProccesHacker/hyperion-obfuscator-deobfuscator"><img src="./assets/btn_hyperion.svg" height="80"/></a>
-  <br/>
-  <a href="https://github.com/ProccesHacker/BlankV2-obfuscator-deobfuscator"><img src="./assets/btn_blankv2.svg" height="80"/></a>
-  <a href="https://github.com/ProccesHacker/apollyon-obfuscator-deobfuscator"><img src="./assets/btn_apollyon.svg" height="80"/></a>
+  <a href="https://github.com/ProccesHacker/Rendy-obfuscator-deobfuscator"><img src="./assets/btn_rendy.svg" height="72"/></a>
+  <a href="https://github.com/ProccesHacker/devmystical-obfuscator-deobfuscator"><img src="./assets/btn_devmystical.svg" height="72"/></a>
+  <a href="https://github.com/ProccesHacker/hyperion-obfuscator-deobfuscator"><img src="./assets/btn_hyperion.svg" height="72"/></a>
+  <a href="https://github.com/ProccesHacker/BlankV2-obfuscator-deobfuscator"><img src="./assets/btn_blankv2.svg" height="72"/></a>
+  <a href="https://github.com/ProccesHacker/apollyon-obfuscator-deobfuscator"><img src="./assets/btn_apollyon.svg" height="72"/></a>
 </p>
+
+<br/>
 
 <p align="center">
   <img src="./assets/stats.svg" width="49%" alt="Stats"/>
